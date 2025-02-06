@@ -13,6 +13,6 @@ twine upload dist/*
 ~~~
 
 ~~~
-UserName = __Token__
+UserName = __token__
 ~~~
 
